@@ -13,9 +13,9 @@ const About = () => {
           </p>
           <h2 className='py-4'>Who I Am</h2>
           <p className='py-2 text-gray-600'>
-            An enthusiastic and self-motivated Lead Software Engineer with 
+            An enthusiastic and self-motivated Software Engineer with 
             an extensive experience in the IT domain, in designing, developing 
-            and testing large scale software and embedded systems. Strong background 
+            and testing scalable software and embedded systems. Strong background 
             in process-oriented software development. Capable of working in a team 
             environment or working independently. I believe that being a great developer is not using one
             specific language, but choosing the best tool for the job.
